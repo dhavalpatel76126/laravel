@@ -1,0 +1,6 @@
+laravel new peoject installation guide
+
+
+DhavalGs-iMac:~ dhavalg$ export PATH="~/.composer/vendor/bin:$PATH" 
+DhavalGs-iMac:~ dhavalg$ source ~/.bashrc 
+DhavalGs-iMac:~ dhavalg$ laravel new project
